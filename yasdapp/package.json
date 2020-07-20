@@ -15,7 +15,7 @@
     "better-scroll": "^0.1.15",
     "eosjs": "^20.0.0",
     "eosjs-api": "^7.0.4",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.19",
     "material-design-icons-iconfont": "^5.0.1",
     "moment": "^2.24.0",
     "register-service-worker": "^1.6.2",
